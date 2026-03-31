@@ -1,5 +1,9 @@
 # EE3005 Assignment 3 - Template Matching
 
+# Dilara Cantanı, Fatma Çapar, Hatice Kübra Duru
+
+# April, 2026
+
 ## Description
 MATLAB implementation of template matching algorithms including:
 - Correlation vs Convolution comparison
